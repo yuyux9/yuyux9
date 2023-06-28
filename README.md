@@ -30,7 +30,7 @@
 - 📘 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
   Script for defence your origin server/ip from bypassing cloudflare proxy
   
-<img src="./endd.png" width="400" align="right" />
+<img src="./endd.png" width="300" align="right" />
 <br/>
 <br/>
 <img src="./final.png" width="500" /><br/>

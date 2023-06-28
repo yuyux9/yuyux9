@@ -31,8 +31,6 @@
   Script for defence your origin server/ip from bypassing cloudflare proxy
   
 <img src="./endd.png" width="300" align="right" />
-<br/>
-<br/>
 <img src="./final.png" width="500" /><br/>
   
 <sub> *“Dreams are meaningful when you work toward them in the real world. If you merely live within the dreams of other people it's no different from being dead.” – Motoko Kusanagi* </sub>

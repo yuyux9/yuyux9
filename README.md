@@ -1,6 +1,42 @@
-## 👺 About Me
-Hey, im yuyux9/yuyu. CTF player from 893crew aka 89cr3w. Working as DevOps-engineer.
+<div>
+<img src="./idk.png" width="200" align="right" />
+<br/>
+<img src="./idk2.png" width="200" align="right" />
+<br/>
+<img src="./bg.png" width="500" />
+<br/>
+<br/>
+  
+- Name **Mei Feng**
 
-<p align="center">
-  <img src="https://64.media.tumblr.com/37adfdd73c25e4b580bde6812a585f56/6806e736823e2aa9-90/s540x810/dcd8ad4cc20862460f32ce66ae5b8418dac586a9.gif" alt="Banner"></a>
-</p>
+- Live in **Japan, Tokyo**
+
+- Working as **DevOps-engineer**
+
+- Tech Stack **Bash**, **Docker**, **Kubernetes**, **Gitlab CI / Github Actions / Jenkins / Circle CD / Azure DevOps**, **Terraform**, **Flux / Argo CD**, **KEDA**, **Linkerd**, **Doppler**, **Yandex Cloud / Google Cloud / AWS / Azure**
+
+- Have high experience with **FFXIV**
+  
+- Familiar with many **unix-like** systems
+
+- Understand **日本語, English, Русский**
+<img src="./tg.png" width="200" align="right" />
+<br/>
+<img src="./ayo.png" width="200" align="right" />
+<br/>
+<img src="./somesomesome.png" width="500" />
+<br/>
+<br/>
+  
+- 📗 [***yuyux9/pacm8tenkai***](https://github.com/yuyux9/pacm8tenkai) <br/>
+  Script for deploying pacmate into your a/d environment of training/competition
+- 📘 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
+  Script for defence your origin server/ip from bypassing cloudflare proxy
+  
+<img src="./endd.png" width="400" align="right" />
+<br/>
+<br/>
+<img src="./final.png" width="500" /><br/>
+  
+<sub> *“Dreams are meaningful when you work toward them in the real world. If you merely live within the dreams of other people it's no different from being dead.” – Motoko Kusanagi* </sub>
+</div>

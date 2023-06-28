@@ -29,8 +29,7 @@
   Script for deploying pacmate into your a/d environment of training/competition
 - 📘 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
   Script for defence your origin server/ip from bypassing cloudflare proxy
-  
-<img src="./endd.png" width="300" align="right" />
+
 <img src="./final.png" width="500" /><br/>
   
 <sub> *“Dreams are meaningful when you work toward them in the real world. If you merely live within the dreams of other people it's no different from being dead.” – Motoko Kusanagi* </sub>

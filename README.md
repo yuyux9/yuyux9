@@ -11,7 +11,7 @@
 
 - Working as **DevOps-engineer**
 
-- Tech Stack **Bash**, **Docker**, **Kubernetes**, **Gitlab CI / Github Actions / Jenkins / Circle CD / Azure DevOps**, **Terraform**, **Flux / Argo CD**, **KEDA**, **Linkerd**, **Doppler**, **Yandex Cloud / Google Cloud / AWS / Azure**
+- Tech Stack **Bash**, **NewRelic**, **Graphana**, **Prometheus**, **Docker**, **Kubernetes**, **Gitlab CI / Github Actions / Jenkins / Circle CD / Azure DevOps**, **Terraform**, **Flux / Argo CD**, **KEDA**, **Linkerd**, **Doppler**, **Yandex Cloud / Google Cloud / AWS / Azure**
 
 - Have high experience with **FFXIV**
   

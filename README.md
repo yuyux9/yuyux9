@@ -20,6 +20,7 @@
 - Understand **日本語, English, Русский**
 
 <img src="./somesomesome.png" width="500" />
+<br/>
 <img src="./tg.png" width="200" align="right" />
 <img src="./ayo.png" width="200" align="right" />
 <br/>

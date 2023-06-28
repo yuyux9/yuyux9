@@ -28,7 +28,7 @@
 - 📗 [***yuyux9/pacm8tenkai***](https://github.com/yuyux9/pacm8tenkai) <br/>
   Script for deploying pacmate into your a/d environment of training/competition
 - 📘 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
-  Script for defence your origin server/ip from bypassing cloudflare proxy
+  Script for defence your origin server/ip from bypassing cloudflare proxy attack
 
 <img src="./final.png" width="500" /><br/>
   

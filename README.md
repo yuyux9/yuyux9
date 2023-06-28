@@ -1,9 +1,7 @@
 <div>
-<img src="./idk.png" width="200" align="right" />
-<br/>
-<img src="./idk2.png" width="200" align="right" />
-<br/>
 <img src="./bg.png" width="500" />
+<img src="./idk.png" width="200" align="right" />
+<img src="./idk2.png" width="200" align="right" />
 <br/>
 <br/>
   
@@ -20,11 +18,10 @@
 - Familiar with many **unix-like** systems
 
 - Understand **日本語, English, Русский**
-<img src="./tg.png" width="200" align="right" />
-<br/>
-<img src="./ayo.png" width="200" align="right" />
-<br/>
+
 <img src="./somesomesome.png" width="500" />
+<img src="./tg.png" width="200" align="right" />
+<img src="./ayo.png" width="200" align="right" />
 <br/>
 <br/>
   

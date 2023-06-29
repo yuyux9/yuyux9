@@ -25,10 +25,12 @@
 <br/>
 <br/>
   
-- 📗 [***yuyux9/pacm8tenkai***](https://github.com/yuyux9/pacm8tenkai) <br/>
+- 📌 [***yuyux9/pacm8tenkai***](https://github.com/yuyux9/pacm8tenkai) <br/>
   Script for deploying pacmate into your a/d environment of training/competition
-- 📘 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
+- 📌 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
   Script for defence your origin server/ip from bypassing cloudflare proxy attack
+- 📌 [***yuyux9/proxy-chan***](https://github.com/yuyux9/proxy-chan) <br/>
+  tiny reverse proxy based on socat with optional SSL/TLS
 
 <img src="./final.png" width="500" /><br/>
   

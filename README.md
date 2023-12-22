@@ -33,6 +33,8 @@
   Script for defence your origin server/ip from bypassing cloudflare proxy attack
 - 📌 [***yuyux9/proxy-chan***](https://github.com/yuyux9/proxy-chan) <br/>
   Script of tiny reverse proxy based on socat with optional SSL/TLS
+- 📌 [***yuyux9/proxymaid***](https://github.com/yuyux9/proxymaid) <br/>
+  Script for creating and using large amount of ipv6 proxy
 
 <img src="./final.png" width="500" /><br/>
   

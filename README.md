@@ -29,6 +29,8 @@
   Script for deploying pacmate into your a/d environment of training/competition
 - 📌 [***yuyux9/hisho-chan***](https://github.com/yuyux9/hisho-chan) <br/>
   Script for deploying boroda into your a/d environment of training/competition
+- 📌 [***yuyux9/farmanbieter***](https://github.com/yuyux9/farmanbieter) <br/>
+  Script for deploying CulhwchFarm into your a/d environment of training/competition
 - 📌 [***yuyux9/kutabare***](https://github.com/yuyux9/kutabare) <br/>
   Script for defence your origin server/ip from bypassing cloudflare proxy attack
 - 📌 [***yuyux9/proxy-chan***](https://github.com/yuyux9/proxy-chan) <br/>

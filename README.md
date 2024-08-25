@@ -11,7 +11,7 @@
 
 - Working as **DevOps-engineer**
 
-- Tech Stack **Bash**, **NewRelic / Pixie**, **Grafana**, **Prometheus**, **Loki**, **Fluent-bit**, **Docker**, **Kubernetes**, **Helm**, **Gitlab CI / Github Actions / Jenkins / Circle CI / Azure DevOps**, **Terraform / Terragrunt**, **Flux / Argo CD**, **KEDA**, **Linkerd**, **Istio**, **Ansible**, **Vagrant**, **Podman**, **Kaniko**, **Doppler / Vault**, **Apache Airflow**, **Kafka**, **KeyCloak**, **Yandex Cloud / Google Cloud / AWS / Azure Cloud**, **Vercel**, **Cloudflare**
+- Tech Stack **Bash**, **NewRelic / Pixie**, **Grafana**, **Prometheus**, **Loki**, **Jaeger**, **Fluent-bit**, **Docker**, **Kubernetes**, **Helm**, **Gitlab CI / Github Actions / Jenkins / Circle CI / Azure DevOps**, **Terraform / Terragrunt**, **Flux / Argo CD**, **KEDA**, **Linkerd**, **Istio / Kiali**, **Ansible**, **Vagrant**, **Podman**, **Kaniko**, **Doppler / Vault**, **Apache Airflow**, **Kafka**, **KeyCloak**, **Teleport**, **Yandex Cloud / Google Cloud / AWS / Azure Cloud**, **Vercel**, **Cloudflare**
 
 - Have high experience with **FFXIV**
   

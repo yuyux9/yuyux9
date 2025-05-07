@@ -45,4 +45,4 @@
 <sub> *“Dreams are meaningful when you work toward them in the real world. If you merely live within the dreams of other people it's no different from being dead.” – Motoko Kusanagi* </sub>
 </div>
 
-<img src="u13Qa95F.png" width="500" /><br/>
+<img src="u13Qa95F.png" /><br/>

@@ -41,6 +41,7 @@
   Script for creating and using large amount of ipv6 proxy
 
 <img src="./final.png" width="500" /><br/>
+<img src="https://mayu.due.moe/get/@yuyux9?theme=rule34&padding=6" width="500" alt="yuyux9" />
   
 <sub> *“Dreams are meaningful when you work toward them in the real world. If you merely live within the dreams of other people it's no different from being dead.” – Motoko Kusanagi* </sub>
 </div>
